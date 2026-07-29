@@ -1,0 +1,7 @@
+[submodule "microsservico-api"]
+	path = microsservico-api
+	url = https://github.com/vitoriabentes/contaminated-areas-nearby-api.git
+	branch = main
+[submodule "mapa-interativo"]
+	path = mapa-interativo
+	url = https://github.com/guolivv/SV_Areas_Contaminadas.git
