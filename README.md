@@ -38,7 +38,7 @@ O protótipo navegável da interface do portal foi desenvolvido no Figma e conte
 
 🔗 [Acesse o protótipo no Figma](https://www.figma.com/site/vc4NAG7X4egyXkwF9w6Shu/Mapa-de-cuidados-de-S%C3%A3o-Vicente?node-id=0-1&t=d9xnLGD2rMTC7m4U-1) 
 
-[Baixar PDF do protótipo](docs/prototipo-figma.pdf)
+[Veja PDF do protótipo](docs/prototipo-figma.pdf)
 
 ### 2. Mapa Interativo
 
